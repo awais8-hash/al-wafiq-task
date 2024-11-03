@@ -23,8 +23,8 @@ A web application that allows users to test website performance using Google Lig
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/awais8-hash/al-wafiq-task.git
+cd al-wafiq-task
 ```
 
 2. Install PHP dependencies:
